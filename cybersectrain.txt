@@ -1,0 +1,109 @@
+What is cybersecurity? Everything you need to know
+Posted by: Margaret Rouse
+WhatIs.com
+Contributor(s): Alexander Gillis and Casey Clark
+
+Cybersecurity is the protection of internet-connected systems such as hardware, software and data from cyber-threats. The practice is used by individuals and enterprises to protect against unauthorized access to data centers and other computerized systems.
+
+The goal of implementing cybersecurity is to provide a good security posture for computers, servers, networks, mobile devices and the data stored on these devices from attackers with malicious intent. Cyber-attacks can be designed to access, delete, or extort an organization’s or user’s sensitive data; making cybersecurity vital., Medical, government, corporate and financial organizations, may all hold vital personal information on an individual, for example.
+Content Continues Below
+Download this free guide
+The Cybersecurity Pro’s Guide to Pandemic-Related Threats
+
+This guide provides critical advice for securing remote devices, employee emails, and other vulnerable endpoints throughout this severe global crisis.
+
+Cybersecurity is a continuously changing field, with the development of technologies that open up new avenues for cyberattacks. Additionally, even though significant security breaches are the ones that often get publicized, small organizations still have to concern themselves with security breaches, as they may often be the target of viruses and phishing.
+
+To protect organizations, employees and individuals, organizations and services should implement cybersecurity tools, training, risk management approaches and continually update systems as technologies change and evolve.
+
+This article is part of
+Guide to preventing coronavirus phishing and ransomware
+
+    Which also includes:
+    How to create a ransomware incident response plan
+    How to protect the network from ransomware in 5 steps
+    Security pros explain how to prevent cyber attacks
+
+Download1
+
+Download this entire guide for FREE now!
+Types of cybersecurity threats
+
+The process of keeping up with new technologies, security trends and threat intelligence is a challenging task. However, it's necessary in order to protect information and other assets from cyber threats, which take many forms. Cyber threats can include:
+
+    Malware is a form of malicious software, which any file or program can be used to harm a computer user, such as worms, computer viruses, Trojan horses and spyware.
+    Ransomware attacks are a type of malware that involves an attacker locking the victim's computer system files -- typically through encryption -- and demanding a payment to decrypt and unlock them.
+    Social engineering is an attack that relies on human interaction to trick users into breaking security procedures to gain sensitive information that is typically protected.
+    Phishing is a form of fraud where fraudulent emails are sent that resemble emails from reputable sources; however, the intention of these emails is to steal sensitive data, such as credit card or login information.
+
+Elements of cybersecurity
+
+Ensuring cybersecurity requires the coordination of security efforts made throughout an information system, including:
+
+    Application security
+    Information security
+    Network security
+    Disaster recovery/business continuity planning
+    Operational security
+    End-user education
+
+It can be a challenge in cybersecurity to keep up with the changing of security risks.  The traditional approach has been to focus resources on crucial system components and protect against the biggest known threats, which meant leaving components undefended and not protecting systems against less dangerous risks.
+
+To deal with the current environment, advisory organizations are promoting a more proactive and adaptive approach. The National Institute of Standards and Technology (NIST), for example, issued updated guidelines in its risk assessment framework that recommend a shift toward continuous monitoring and real-time assessments.
+
+Version 1.1 of the Framework for Improving Critical Infrastructure was released in April 2018. The voluntary cybersecurity framework, developed for use in the banking, communications, defense and energy industries, can be adopted by all sectors, including federal and state governments. President Donald Trump issued an executive order mandating that federal agencies adopt the NIST Cybersecurity Framework (NIST CSF) in May 2017.
+
+As a result of security risks, investments in cybersecurity technologies and services are increasing. In the past, Gartner had predicted that worldwide spending on information security products and services would grow to $114 billion in 2018, and another 8.7% increase to $124 billion in 2019. Later, in 2019, Gartner had also predicted spending in enterprise security and risk management to grow 11% in 2020 regarding Middle East and North Africa.
+Benefits of cybersecurity
+
+Benefits of utilizing cybersecurity includes:
+
+    Business protection against malware, ransomware, phishing and social engineering.
+    Protection for data and networks.
+    Prevention of unauthorized users.
+    Improves recovery time after a breach.
+    Protection for end-users.
+    Improved confidence in the product for both developers and customers.
+
+Cybersecurity challenges
+
+Cybersecurity is continually challenged by hackers, data loss, privacy, risk management, and changing cybersecurity strategies. Nothing currently indicates that cyber-attacks will decrease. Moreover, with the more entry points, there are for attacks, the more cybersecurity is needed to secure networks and devices.
+
+One of the most problematic elements of cybersecurity is the continually evolving nature of security risks. As new technologies emerge, and technology is used in new or different ways, new avenues of attack are developed as well. Keeping up with these continual changes and advances in attacks can be challenging to organizations, as well as updating their practices to protect against them. This also includes ensuring that all the elements of cybersecurity are continually changed and updated to protect against potential vulnerabilities. This can be especially challenging for smaller organizations.
+
+Additionally, today, there is a lot of potential data an organization can gather on individuals who take part in one of their services. With more data being collected, the likelihood of a cybercriminal who wants to steal personally identifiable information is another concern. For example, an organization that stores personally identifiable information in the cloud may be subject to a ransomware attack, and should do what they can to prevent a cloud breach.
+
+Cybersecurity should also address end-user education, as an employee may accidently bring a virus into a workplace on their work computer, laptop, or smartphone.
+
+Another large challenge to cybersecurity includes a job shortage. As growth in data from businesses become more important, the need for more cybersecurity personnel to analyze, manage and respond to incidents increases. It is estimated that there are two million unfilled cybersecurity jobs worldwide. Cybersecurity Ventures also estimates that by 2021, there will be up to 3.5 million unfilled cybersecurity jobs.
+
+However, new advances in machine learning and artificial intelligence (AI) have started to be developed to help in organizing and managing data -- although not to the effect needed.
+
+Automation
+
+AI and machine learning in areas that have high-volume data streams and can help in areas such as:
+
+    Correlating data- which focuses on organizing data, identifying possible threats within data and predicting an attacks next step.
+    Detecting infections- which focuses on having a security platform analyze data, recognize threats as well as create and enact security protections.
+    Generating protections- without putting a strain on resources.
+    Implementing protections.
+
+Cybersecurity vendors
+
+Vendors in cybersecurity fields will typically use endpoint, network and advanced threat protection security as well as data loss prevention. Three commonly known cybersecurity vendors include Cisco, McAfee and Trend Micro.
+
+Cisco tends to focus on networks and allows its customers to utilize firewalls, VPNs and advanced malware protection along with supporting email and endpoint security. Cisco also supports real-time malware blocking.
+
+McAfee makes cybersecurity products for consumers and enterprise users. McAfee supports mobile, enterprise clouds, network, web and server-based security. Data protection and encryption is also offered.  
+
+Trend Micro is an anti-malware vendor which offers threat protection for mobile, hybrid clouds, SaaS and the IoT. Trend Micro provides users with endpoint, email and web security.
+Careers in cybersecurity
+
+As the cyber threat landscape continues to grow and emerging threats -- such as the threats on the landscape of the internet of things -- individuals are needed with the required skills and awareness in both hardware and software skills.
+
+ IT professionals and other computer specialists are needed in security jobs, such as:
+
+    Chief information security officer (CISO): This individual implements the security program across the organization and oversees the IT security department's operations.
+    Security engineer: This individual protects company assets from threats with a focus on quality control within the IT infrastructure.
+    Security architect: This individual is responsible for planning, analyzing, designing, testing, maintaining and supporting an enterprise's critical infrastructure.
+    Security analyst: This individual has several responsibilities that include planning security measures and controls, protecting digital files, and conducting both internal and external security audits.   

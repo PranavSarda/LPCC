@@ -1,0 +1,28 @@
+VMware patches serious vulnerabilities in ESXi hypervisor, SD-WAN Orchestrator
+
+VMware has patched critical vulnerabilities affecting its ESXi enterprise-class hypervisor and has released a security update for its SD-WAN Orchestrator, plugging a handful of serious security holes.
+
+vulnerabilities ESXi hypervisor
+Vulnerabilities in ESXi hypervisor exploited during a hacking competition
+
+During the Tianfu Cup Pwn Contest that was held in Chengdu, China, earlier this month, Xiao Wei and Tianwen Tang, two researchers from the Qihoo 360 Vulcan Team, exploited two previously unknown vulnerabilities to thoroughly compromise VMWare’s ESXi hypervisor:
+
+    CVE-2020-4004, deemed “critical”, is a use-after-free vulnerability in XHCI USB controller that can be used by attackers with local administrative privileges on a virtual machine to execute code as the virtual machine’s VMX process running on the host
+    CVE-2020-4005, deemed “important”, is a VMX elevation-of-privilege vulnerability that can be used by attackers with privileges within the VMX process to escalate their privileges on the affected system
+
+CVE-2020-4004 affects various versions of ESXi, but also VMware Fusion (Mac virtualization solution), VMware Workstation Player (desktop hypervisor application) and VMware Cloud Foundation (ESXi). CVE-2020-4005 affects ESXi and VMware Cloud Foundation. Most patches are already available, but those for Cloud Foundation are still pending.
+
+Users are advised to peruse this advisory and see whether they should update their installations.
+VMware SD-WAN Orchestrator vulnerabilities
+
+VMware has also released security updates for both supported branches (3.x and 4.x) of SD-WAN Orchestrator, its enterprise solution for provisioning virtual services in the branch, the cloud, or the enterprise data center.
+
+They fix six vulnerabilities, including SQL injection vulnerabilities, a directory traversal file execution flaw, and default passwords for predefined accounts which may lead to to a Pass-the-Hash attack. In that last instance, the update does nothing – it’s on administrators to change the default passwords of the preconfigured accounts on SD-WAN Orchestrator before production use.
+
+The vulnerabilities are not deemed to be critical, as attackers need to be authenticated in order to exploit them.
+
+Nevertheless, admins have been advised to upgrade their SD-WAN Orchestrator installations to version 4.0.1, 3.4.4, or 3.3.2 P3.
+
+Half of the vulnerabilities have been discovered and reported by Ariel Tempelhof of Realmode Labs, the other half by Christopher Schneider, Cory Billington and Nicholas Spagnola, penetration test analysts at State Farm.
+
+There are currently no reports of these vulnerabilities being exploited in the wild.

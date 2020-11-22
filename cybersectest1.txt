@@ -1,0 +1,29 @@
+
+Manchester United hit by ‘sophisticated’ cyber attack
+November 21, 2020  By Pierluigi Paganini
+
+
+The Manchester United football club has been hit by a cyber attack on their systems, it is not aware of a breach of personal data for his fans.
+
+
+Manchester United disclosed a cyber attack, but according to the football club it is not “currently aware of any breach of personal data associated with our fans and customers”.
+
+The club confirmed the security breach on Friday evening, it shut down its systems to prevent the malware from spreading within.
+
+“Manchester United can confirm that the club has experienced a cyber attack on our systems. The club has taken swift action to contain the attack and is currently working with expert advisers to investigate the incident and minimise the ongoing IT disruption.” reads a statement issued by the Manchester United and reported by The Guardian.
+
+“Although this is a sophisticated operation by organised cyber criminals, the club has extensive protocols and procedures in place for such an event and had rehearsed for this eventuality. Our cyber defences identified the attack and shut down affected systems to contain the damage and protect data.”
+
+“Club media channels, including our website and app, are unaffected and we are not currently aware of any breach of personal data associated with our fans and customers.”
+
+“We are confident that all critical systems required for matches to take place at Old Trafford remain secure and operational and that tomorrow’s game against West Bromwich Albion will go ahead.”
+Manchester United
+
+The club notifies the British authotities about the incident, including the Information Commissioner’s Office. The United also launched a forensic investigation into the incident.
+
+“These type of attacks are becoming more and more common and are something you have to rehearse for.” said a spokesman for the club.
+	
+
+Pierluigi Paganini
+
+(SecurityAffairs – hacking, Manchester United)
